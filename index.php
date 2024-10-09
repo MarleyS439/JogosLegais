@@ -14,118 +14,59 @@
         <link rel="stylesheet" type="text/css" href="./views/assets/css/index.css" />
 
         <!-- Favicon -->
-        <link rel="shortcut icon" href="/views/assets/img/LogoBranca.svg" type="image/x-icon" />
+        <link rel="shortcut icon" href="views/assets/img/LogoBranca.svg" type="image/x-icon" />
 
         <!-- Font Awesome -->
         <script src="https://kit.fontawesome.com/5bf5514c29.js" crossorigin="anonymous"></script>
 
         <!-- Title -->
-        <title>JogosLegais | Home</title>
+        <title>JogosLegais</title>
     </head>
 
     <body>
-        <div class="to-up-btn">
-            <button type="button" id="toUp">
-                <i class="fa-solid fa-arrow-up"></i>
-            </button>
-        </div>
 
-        <!--Cabeçalho-->
+        <!-- Header -->
         <header>
-            <!--Menu de navegação-->
+            <!-- Nav -->
             <nav>
-                <!--Logo-->
+                <!-- Logo -->
                 <div class="logo">
                     <picture>
-                        <source
-                            srcset="views/assets/img/LogoTipo.svg"
-                            type="image/svg+xml"
-                        />
-                        <img
-                            src="views/assets/img/LogoTipo.svg"
-                            alt="Logotipo JogosLegais"
-                        />
+                        <source srcset="views/assets/img/LogoTipo.svg" type="image/svg+xml" />
+                        <img src="views/assets/img/LogoTipo.svg" alt="Logotipo JogosLegais" />
                     </picture>
                 </div>
 
                 <!--Links de navegação-->
                 <ul>
-                    <li><a href="">Link</a></li>
-                    <li><a href="">Link</a></li>
-                    <li><a href="">Link</a></li>
-                    <li><a href="">Link</a></li>
+                    <li><a href="#">Início</a></li>
+                    <li><a href="#">Sobre</a></li>
+                    <li><a href="#">Depoimentos</a></li>
+                    <li><a href="#">Quem somos</a></li>
+                    <li><a href="#">Depoimentos</a></li>
                 </ul>
-
-                <!--
-                <div class="menu-mobile">
-
-                <div class="button-menu">
-                    <button type="menu" id="menuButton"><i class="fa-solid fa-bars"></i></button>
-                </div>
-
-                <div class="links-menu-mobile">
-                    <a href="">Link</a>
-                    <a href="">Link</a>
-                    <a href="">Link</a>
-                    <a href="">Link</a>
-                </div>
-            </div>
-            -->
 
                 <!--Botões de acesso-->
                 <div class="actions">
-                    <a href="" id="cadastre">Cadastrar</a>
-                    <a href="" id="login">Entrar</a>
-                </div>
-
-                <div class="menu-mobile-click">
-                    <button type="menu" id="menuButton">
-                        <i class="fa-solid fa-bars"></i>
-                    </button>
-                </div>
-
-                <div class="logo-mobile">
-                    <picture>
-                        <source
-                            srcset="views/assets/img/LogoTipo.svg"
-                            type="image/svg+xml"
-                        />
-                        <img
-                            src="views/assets/img/LogoTipo.svg"
-                            alt="Logotipo JogosLegais"
-                        />
-                    </picture>
+                    <a href="#" id="cadastre">Cadastrar</a>
+                    <a href="#" id="login">Entrar</a>
                 </div>
             </nav>
 
             <div class="header-fill">
                 <!--Imagem do header-->
                 <picture id="fill">
-                    <source
-                        srcset="views/assets/img/undraw_fatherhood_-7-i19.svg"
-                        type="image/svg+xml"
-                    />
-                    <img
-                        src="views/assets/img/undraw_fatherhood_-7-i19.svg"
-                        alt="Imagem"
-                    />
+                    <source srcset="views/assets/img/undraw_fatherhood_-7-i19.svg" type="image/svg+xml" />
+                    <img src="views/assets/img/undraw_fatherhood_-7-i19.svg" alt="Imagem" />
                 </picture>
             </div>
 
             <!--Título no header-->
             <div class="title-header">
                 <h2>Explore um mundo de conhecimento e diversão!</h2>
-                <p>
-                    Nosso site é o seu portal para descobrir os direitos do
-                    consumidor de forma cativante. Através de jogos
-                    emocionantes, aprenda sobre situações do dia a dia e como
-                    proteger seus direitos desde cedo.
-                </p>
+                <p>Nosso site é o seu portal para descobrir os direitos do consumidor de forma cativante. Através de jogos emocionantes, aprenda sobre situações do dia a dia e como proteger seus direitos desde cedo.</p>
 
-                <p>
-                    Bem-vindo ao seu novo <span>playground educativo </span>,
-                    onde aprender sobre direitos é uma aventura!
-                </p>
+                <p>Bem-vindo ao seu novo <span>playground educativo </span>,onde aprender sobre direitos é uma aventura!</p>
             </div>
         </header>
 
@@ -135,29 +76,15 @@
             <section class="discovery">
                 <div class="information-discovery">
                     <div class="item-in-discovery info">
-                        <h3>
-                            Descubra a magia do aprendizado enquanto se diverte!
-                        </h3>
+                        <h3>Descubra a magia do aprendizado enquanto se diverte!</h3>
 
-                        <p>
-                            Nossa suíte de jogos é cuidadosamente projetada para
-                            guiar crianças pelo fascinante mundo dos direitosdo
-                            consumidor. Cada jogo é uma jornada educativa, onde
-                            os pequenos exploradores aprenderão de forma
-                            interativa e envolvente
-                        </p>
+                        <p>Nossa suíte de jogos é cuidadosamente projetada para guiar crianças pelo fascinante mundo dos direitosdo consumidor. Cada jogo é uma jornada educativa, onde os pequenos exploradores aprenderão de forma interativa e envolvente</p>
                     </div>
 
                     <div class="item-in-discovery imagem">
                         <picture>
-                            <source
-                                srcset="views/assets/img/LogoTipo.svg"
-                                type="image/svg+xml"
-                            />
-                            <img
-                                src="views/assets/img/LogoTipo.svg"
-                                alt="Logotipo JogosLegais"
-                            />
+                            <source srcset="views/assets/img/LogoTipo.svg" type="image/svg+xml" />
+                            <img src="views/assets/img/LogoTipo.svg" alt="Logotipo JogosLegais" />
                         </picture>
                     </div>
                 </div>
@@ -171,15 +98,8 @@
 
                 <div class="items-in-projects">
                     <div class="itemA">
-                        <img
-                            src="views/assets/img/game01.png"
-                            alt="Defensor dos Direitos"
-                        />
-                        <p>
-                            Em <strong>'Defensor dos Direitos'</strong>, eles se
-                            tornarão heróis virtuais, enfrentando desafios que
-                            ensinam sobre garantias e responsabilidades.
-                        </p>
+                        <img src="views/assets/img/game01.png" alt="Defensor dos Direitos" />
+                        <p>Em <strong>'Defensor dos Direitos'</strong>, eles se tornarão heróis virtuais, enfrentando desafios que ensinam sobre garantias e responsabilidades.</p>
                     </div>
 
                     <div class="itemB">
@@ -283,6 +203,7 @@
 
         <!--Rodapé-->
         <footer>
+
             <div class="links">
                 <!--Logo da Illumi-->
                 <picture>
@@ -317,24 +238,12 @@
 
             <!--Informações e copyright-->
             <div class="copy">
-                &copy; 2023 Criado por Illumi. Todos os Direitos Reservados
+                &copy; 2023 Desenvolvido por <a href="https://github.com/MarleyS439/"> Marley Santos</a>. Todos os Direitos Reservados
             </div>
         </footer>
 
-        <!--Botão para abrir e fechar o menu mobile-->
-        <script
-            src="views/assets/js/mobile-menu.js"
-            type="text/javascript"
-        ></script>
 
-        <!--Botão para o topo da página-->
-        <script>
-            const scrollToTop = () => {
-                window.scrollTo(0, 0);
-            };
-            document
-                .getElementById("toUp")
-                .addEventListener("click", scrollToTop);
-        </script>
+        <!-- Menu mobile -->
+        <script src="views/assets/js/mobile-menu.js" type="text/javascript"></script>
     </body>
 </html>
