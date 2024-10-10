@@ -156,13 +156,36 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        margin: 2% 10% 2% 15%;
+        margin: 8% 10% 8% 15%;
     }
 
     .itemA p {
         background-color: var(--dark-purple-2);
         padding: 5%;
         color: var(--white);
+        border-radius: 5px;
+    }
+
+    .items-in-projects .itemB {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 8% 15% 8% 10%;
+        flex-direction: row-reverse;
+    }
+
+    .itemB p {
+        background-color: var(--dark-purple-2);
+        padding: 5%;
+        color: var(--white);
+        border-radius: 5px;
+    }
+
+    .info2 h3 {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        flex-direction: row;
     }
 
     /* Copy */

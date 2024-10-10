@@ -103,33 +103,13 @@
                     </div>
 
                     <div class="itemB">
-                        <img
-                            src="views/assets/img/game02.png"
-                            alt="Super Comprador"
-                            id="imgoculta"
-                        />
-                        <p>
-                            No jogo <strong>'Super Comprador'</strong>, os
-                            participantes aprenderão a fazer escolhas
-                            inteligentesao comprar produtos.
-                        </p>
-                        <img
-                            src="views/assets/img/game02.png"
-                            alt="Super Comprador"
-                            id="ocultafter"
-                        />
+                        <img src="views/assets/img/game02.png" alt="Super Comprador" id="imgoculta" />
+                        <p>No jogo <strong>'Super Comprador'</strong>, os participantes aprenderão a fazer escolhas inteligentesao comprar produtos.
                     </div>
 
                     <div class="itemA mescle">
-                        <img
-                            src="views/assets/img/gaem03.png"
-                            alt="Desafio dos Contratos"
-                        />
-                        <p>
-                            Em <strong>'Desafio dos contratos'</strong>,
-                            decifrarão o universo dos contratos de maneira
-                            lúdica.
-                        </p>
+                        <img src="views/assets/img/gaem03.png" alt="Desafio dos Contratos" />
+                        <p>Em <strong>'Desafio dos contratos'</strong>, decifrarão o universo dos contratos de maneira lúdica.</p>
                     </div>
                 </div>
             </section>
@@ -138,9 +118,7 @@
             <section>
                 <div class="information-discovery">
                     <div class="item-in-discovery info2">
-                        <h3>
-                            Com JogosLegais, a aprendizagem sobre os direitos do
-                            consumidor está ao alcance de um toque!
+                        <h3>Com JogosLegais, a aprendizagem sobre os direitos do consumidor está ao alcance de um toque!
                         </h3>
 
                         <p>
